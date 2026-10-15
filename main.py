@@ -22,7 +22,7 @@ def main():
         {"symbol": "aapl", "price": 186.00, "volume": 430, "timestamp": datetime.now(timezone.utc).isoformat()},
         {"symbol": "bad_ticker", "price": -50.0, "volume": 100},
         {"symbol": "goog", "price": 175.25, "volume": 3000, "timestamp": datetime.now(timezone.utc).isoformat()},
-        {"symbol": "msft", "price": 421.50, "volume": 620, "timestamp": datetime.now(timezone.utc).isoformat()}
+        {"symbol": "msft", "package": 421.50, "price": 421.50, "volume": 620, "timestamp": datetime.now(timezone.utc).isoformat()}
     ]
 
     try:
