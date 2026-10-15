@@ -1,0 +1,10 @@
+pyproject.toml
+src/__init__.py
+src/pipeline.py
+src/schema.py
+src/market_data_pipeline.egg-info/PKG-INFO
+src/market_data_pipeline.egg-info/SOURCES.txt
+src/market_data_pipeline.egg-info/dependency_links.txt
+src/market_data_pipeline.egg-info/requires.txt
+src/market_data_pipeline.egg-info/top_level.txt
+tests/test_schema.py
